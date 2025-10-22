@@ -1,0 +1,10 @@
+{
+    "convert-on-upload": true,
+    "destination-folder": "mingled",
+    "scope": [
+        "uploads"
+    ],
+    "paths-used-in-htaccess": {
+        "wod-url-path": "wp-content/plugins/webp-express/wod/webp-on-demand.php"
+    }
+}
